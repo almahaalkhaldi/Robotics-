@@ -1,0 +1,8 @@
+The idea is to creating a detection system for size based separation for a production line. 
+To simulate that: 
+1- chose IR sensor for detection of objects 
+2- chose Arduino uno as controller 
+3- chose the appropriate motor: servo to control the path of different sized objects in the production line 
+4- designed a proof of concept circuitry 
+5- programmed the circuit 
+6- executed and tested the system 
