@@ -1,0 +1,17 @@
+Algorithm to creat a feedback robotic system 
+
+1. To creat a feedback system motors are controlled by another electrical element
+                                         ⬇️
+2. Potentiometers are used to control the motors 																				 
+                                         ⬇️
+3. Servo motor are used to provide high tourq and percision 
+                                         ⬇️
+4. Arduiuno is used as a control system and programming language 
+                                         ⬇️
+5. Circuit is connected by ➡️ supplying each servo motor with 5v, ground and digital signal ➡️ supplying each potentiometer with 5v, ground, analog signal ➡️ additional voltage (9v for arduino board and 6v for potentiometers )is added to opertate the circuit 
+                                         ⬇️
+6. Program sketch is written to control the servo motors with potentiometers 
+                                         ⬇️
+7. System is tested
+                                       - END -
+
